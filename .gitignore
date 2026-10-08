@@ -22,3 +22,4 @@
 *.aab
 *.unitypackage
 sysinfo.txt
+/Data/
